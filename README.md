@@ -13,3 +13,5 @@ wark
 wark
 
 :) biboubouboup lkajdsnf;jafnvalejbf
+
+bipbop robot [^_^]
