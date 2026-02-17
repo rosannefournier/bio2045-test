@@ -1,2 +1,1 @@
-# bio2045-test
-allo
+# Test (BIO2045)
